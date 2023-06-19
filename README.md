@@ -1,6 +1,8 @@
 # FakePhishingSite
 Phishing site to pretend to be an official service provider to steal user credentials
 
+In this example i do not have any code owned by facebook listed in the repo, please use this example project only for educational purposes.
+
 Phishing scams usually start as a person pretending to be from a service provider, and getting the user to feel an urgency to resolve a problem
 it might be an email, a phone call etc. once the user clicks on the link they are redirected to a fake site, the user should always check the domain name
 and the link URL before clicking to make sure it's from the legit domain.
